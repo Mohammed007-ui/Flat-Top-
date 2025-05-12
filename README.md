@@ -55,10 +55,10 @@ plt.show()
 
 ```
 # Output Waveform
-```
+
 ![flattop](https://github.com/user-attachments/assets/dad3c581-5c5e-4e0a-b175-966be26034cd)
 
-```
+
 # Results
 ```
 The original sine wave was successfully sampled using the flat-top sampling method.
